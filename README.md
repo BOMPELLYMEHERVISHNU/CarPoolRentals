@@ -8,9 +8,13 @@ The transaction reports of the car rental system can be retrieved by the admin,w
 Thus, there is no delay in the availability of any car information, whenever needed the supercar information can be Captured very quickly and easily.
 The customers can also use the system to rent a supercar. The customer should create a new account before logging in or he/she can log into the system with his/her created account. Then he/she book the available cars and can book this car.This system will helpful to the admin as well as to the customer also.
 Software Requirements:
+
 Platform                                -  Windows
+
 Programming Languages   -  HTML,CSS,Servlets,Web sockets
+
 Development Tool              -  Visual Studio
+
 Hardware Requirements:
 	Name of the processor  - i5 8th gen
 	Hard disk                      -1TB
